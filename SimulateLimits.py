@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 
-time_limit = 100
+time_limit = 10000
 my_function = []
 my_difference = []
 
